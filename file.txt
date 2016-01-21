@@ -4,4 +4,5 @@ void main()
 {
 printf("Hello GIT - one");
 printf("Changed from branch one");
+printf("Changed from remote");
 }
